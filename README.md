@@ -18,3 +18,16 @@ Comes with: css animations, events, AJAX (using ES6 Fetch), and most of jQuery's
 	});
 </script>
 ```
+
+## Load Alongside jQuery
+```html
+<script>
+var src = '../FrankenQuery.min.js';
+try {
+	new Function("(a=0) => a");
+} catch(e) {
+	src = 'https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js';
+}
+document.write('<script src="' + src + '"><\/script>');
+</script>
+```
