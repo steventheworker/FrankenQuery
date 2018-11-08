@@ -1,4 +1,4 @@
-<img width="323" src="http://interesting.sytes.net/wp-content/uploads/2018/10/desenho-de-cabeca-de-frankenstein_33070-3915.jpg"  alt="FrankenQuery Logo">
+<img width="323" src="http://interesting.sytes.net/wp-content/uploads/2018/10/frankenquery_logo_323.jpg"  alt="FrankenQuery Logo">
 
 # FrankenQuery
 
