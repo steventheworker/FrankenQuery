@@ -1,4 +1,3 @@
-<img width="323" src="http://interesting.sytes.net/wp-content/uploads/2018/10/frankenquery_logo_323.jpg"  alt="FrankenQuery Logo">
 
 # FrankenQuery
 
